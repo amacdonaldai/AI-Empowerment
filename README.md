@@ -30,7 +30,7 @@ To get similar results like mine, be sure to update your [ChatGPT Custom Instruc
 - [Storytelling GPT Config](https://github.com/amacdonaldai/AI-Empowerment/blob/main/Storytelling-GPT.md)
 
 # Use Case 5: Spreadsheet Analysis
-- [Chat example](https://chat.openai.com/share/da773a1f-ef61-4b04-ac37-58b42fdba62b)
+- [EDA Prompt](https://github.com/amacdonaldai/AI-Empowerment/blob/main/EDA-Prompt.md)
 - [Data](https://github.com/tobiaszwingmann/chatgpt-for-data-analytics/blob/main/Day%201/Store-Reports.xlsx)
 - [EDA GPT](https://chat.openai.com/g/g-BuumOqulZ-exploratory-data-analysis)
 - [GPT Config](https://github.com/amacdonaldai/AI-Empowerment/blob/main/EDA-GPT.md)

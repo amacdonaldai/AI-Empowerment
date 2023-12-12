@@ -22,7 +22,7 @@ To get similar results like mine, be sure to update your [ChatGPT Custom Instruc
 # Use Case 3: Root Cause Analysis
 - [Chat example](https://chat.openai.com/share/2e942b04-f8cf-49d3-9dff-cfe4682b540f)
 - [Root Cause Analysis GPT](https://chat.openai.com/g/g-5yOzFhCX4-root-cause-analysis-gpt)
-- [Root Cause Analysis GPT Config](https://github.com/amacdonaldai/AI-Empowerment/blob/main/Root-Cause_Analysis-GPT.md)
+- [Root Cause Analysis GPT Config](https://github.com/amacdonaldai/AI-Empowerment/blob/main/Root-Cause-Analysis-GPT.md)
 
 # Use Case 4: Storytelling
 - [Chat example](https://chat.openai.com/share/bfe36a5a-2486-4950-b3df-6df48e638451)

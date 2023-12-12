@@ -16,7 +16,7 @@ To get similar results like mine, be sure to update your [ChatGPT Custom Instruc
 
 # Use Case 2: Digging into the Issues (trees)
 - [Chat example](https://chat.openai.com/share/91828f4e-7006-4403-b536-6d99c20fab45)
-- [Issue Tree GPT](https://chat.openai.com/g/g-qaKT45vrL-issue-tree-gpt)
+- [Issue Tree GPT](https://chat.openai.com/g/g-fwNcQyMK0-issue-tree-gpt)
 - [Issue Tree GPT Config](https://github.com/amacdonaldai/AI-Empowerment/blob/main/Issue-Tree-GPT.md)
 
 # Use Case 3: Root Cause Analysis

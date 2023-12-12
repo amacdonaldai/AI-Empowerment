@@ -12,7 +12,7 @@ To get similar results like mine, be sure to update your [ChatGPT custom instruc
 # Use Case 1: DEFINING THE PROBLEM STATEMENT
 - [Chat example](https://chat.openai.com/share/3a5274f8-2ddb-4cf7-bc6e-88ad407b64b7)
 - [Smart Problem GPT](https://chat.openai.com/g/g-tHZOlUaYD-smart-problem-gpt)
-- [GPT Config](https://github.com/tobiaszwingmann/chatgpt-for-data-analytics/blob/main/Day%201/GPT%20Configs/smart-problem-gpt.md)
+- [GPT Config](https://github.com/amacdonaldai/AI-Empowerment/blob/main/problem-statement.md)
 
 # Use Case 2: Issue Trees
 - [Chat example](https://chat.openai.com/share/91828f4e-7006-4403-b536-6d99c20fab45)

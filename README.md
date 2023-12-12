@@ -21,7 +21,7 @@ To get similar results like mine, be sure to update your [ChatGPT Custom Instruc
 
 # Use Case 3: Root Cause Analysis
 - [Chat example](https://chat.openai.com/share/2e942b04-f8cf-49d3-9dff-cfe4682b540f)
-- [RCA GPT](https://chat.openai.com/g/g-3fPXHFQOm-rca-gpt)
+- [RCA GPT](https://chat.openai.com/g/g-5yOzFhCX4-root-cause-analysis-gpt)
 - [GPT Config](https://github.com/tobiaszwingmann/chatgpt-for-data-analytics/blob/main/Day%201/GPT%20Configs/RCA-gpt.md)
 
 # Use Case 4: Storytelling

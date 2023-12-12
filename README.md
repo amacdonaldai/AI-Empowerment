@@ -11,7 +11,7 @@ To get similar results like mine, be sure to update your [ChatGPT Custom Instruc
 
 # Use Case 1: Defining the Problem Statement
 - [Problem Statement Prompt](https://github.com/amacdonaldai/AI-Empowerment/blob/main/Problem-Statement-Prompt)
-- [Smart Problem GPT](https://chat.openai.com/g/g-tHZOlUaYD-smart-problem-gpt)
+- [Problem Statement GPT](https://chat.openai.com/g/g-tHZOlUaYD-smart-problem-gpt)
 - [Problem Statement GPT Config](https://github.com/amacdonaldai/AI-Empowerment/blob/main/problem-statement.md)
 
 # Use Case 2: Digging into the Issues (trees)

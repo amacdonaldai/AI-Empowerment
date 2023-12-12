@@ -15,12 +15,12 @@ To get similar results like mine, be sure to update your [ChatGPT Custom Instruc
 - [Problem Statement GPT Config](https://github.com/amacdonaldai/AI-Empowerment/blob/main/problem-statement.md)
 
 # Use Case 2: Digging into the Issues (trees)
-- [Issue Tree Prompt](https://github.com/amacdonaldai/AI-Empowerment/blob/main/Issue-Tree-Prompt)
+- [Issue Tree Prompt](https://github.com/amacdonaldai/AI-Empowerment/blob/main/Issue-Tree-Prompt.md)
 - [Issue Tree GPT](https://chat.openai.com/g/g-fwNcQyMK0-issue-tree-gpt)
 - [Issue Tree GPT Config](https://github.com/amacdonaldai/AI-Empowerment/blob/main/Issue-Tree-GPT.md)
 
 # Use Case 3: Root Cause Analysis
-- [Root Cause Analysis Prompt](https://github.com/amacdonaldai/AI-Empowerment/blob/main/Root-Cause-Analysis-Prompt)
+- [Root Cause Analysis Prompt](https://github.com/amacdonaldai/AI-Empowerment/blob/main/Root-Cause-Analysis-Prompt.md)
 - [Root Cause Analysis GPT](https://chat.openai.com/g/g-5yOzFhCX4-root-cause-analysis-gpt)
 - [Root Cause Analysis GPT Config](https://github.com/amacdonaldai/AI-Empowerment/blob/main/Root-Cause-Analysis-GPT.md)
 

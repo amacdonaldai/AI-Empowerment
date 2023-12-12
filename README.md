@@ -5,7 +5,7 @@ We have a fantastic day planned with 80% of your time being spent experimenting 
 
 The morning session will cover this case study: [Power Pedal Case Study Description](https://github.com/tobiaszwingmann/chatgpt-for-data-analytics/blob/main/Day%201/Case%20Study_%20Pedal%20Power%20Inc.pdf)
 
-To get similar results like mine, be sure to update your [ChatGPT custom instructions](https://github.com/tobiaszwingmann/chatgpt-for-data-analytics/blob/main/Day%201/custom_instructions.md)!
+To get similar results like mine, be sure to update your [ChatGPT custom instructions](https://github.com/amacdonaldai/AI-Empowerment/blob/main/Custom%20Instructions))!
 
 **ALERT** It's important to approach these scenarios with an understanding that they may not always produce completely accurate outcomes. In some instances, achieving absolute accuracy might not be feasible. Remember, the assistance provided by AI is a tool to support your decision-making process, not to replace it. Your discernment is crucial. More insights on this topic will be shared as we progress through the course.
 

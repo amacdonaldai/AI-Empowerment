@@ -10,9 +10,9 @@ To get similar results like mine, be sure to update your [ChatGPT custom instruc
 **ALERT** It's important to approach these scenarios with an understanding that they may not always produce completely accurate outcomes. In some instances, achieving absolute accuracy might not be feasible. Remember, the assistance provided by AI is a tool to support your decision-making process, not to replace it. Your discernment is crucial. More insights on this topic will be shared as we progress through the course.
 
 # Use Case 1: DEFINING THE PROBLEM STATEMENT
-- [Chat example](https://chat.openai.com/share/3a5274f8-2ddb-4cf7-bc6e-88ad407b64b7)
+- [Problem Statement Prompt](https://github.com/amacdonaldai/AI-Empowerment/blob/main/Problem-Statement-Prompt)
 - [Smart Problem GPT](https://chat.openai.com/g/g-tHZOlUaYD-smart-problem-gpt)
-- [GPT Config](https://github.com/amacdonaldai/AI-Empowerment/blob/main/problem-statement.md)
+- [Problem Statement GPT Config](https://github.com/amacdonaldai/AI-Empowerment/blob/main/problem-statement.md)
 
 # Use Case 2: Issue Trees
 - [Chat example](https://chat.openai.com/share/91828f4e-7006-4403-b536-6d99c20fab45)

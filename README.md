@@ -15,7 +15,7 @@ To get similar results like mine, be sure to update your [ChatGPT Custom Instruc
 - [Problem Statement GPT Config](https://github.com/amacdonaldai/AI-Empowerment/blob/main/problem-statement.md)
 
 # Use Case 2: Digging into the Issues (trees)
-- [Chat example](https://chat.openai.com/share/91828f4e-7006-4403-b536-6d99c20fab45)
+- [Issue Tree Prompt](https://github.com/amacdonaldai/AI-Empowerment/blob/main/Issue-Tree-Prompt)
 - [Issue Tree GPT](https://chat.openai.com/g/g-fwNcQyMK0-issue-tree-gpt)
 - [Issue Tree GPT Config](https://github.com/amacdonaldai/AI-Empowerment/blob/main/Issue-Tree-GPT.md)
 

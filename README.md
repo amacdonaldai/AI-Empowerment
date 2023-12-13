@@ -10,7 +10,7 @@ To get similar results like mine, be sure to update your [ChatGPT Custom Instruc
 **ALERT** It's important to approach these scenarios with an understanding that they may not always produce completely accurate outcomes. In some instances, achieving absolute accuracy might not be feasible. Remember, the assistance provided by AI is a tool to support your decision-making process, not to replace it. Your discernment is crucial. More insights on this topic will be shared as we progress through the course.
 
 # Using ChatGPT (20 minutes)
-Let's warm up in 5 Prompts
+Let's warm up in 5 Prompts.
 These prompts are designed to get comfortable with the environment. For this use-case we will use an HR process for recruiting
 Why? Because recruiting involves everyone. Everyone here has a role to play in recruiting.
 

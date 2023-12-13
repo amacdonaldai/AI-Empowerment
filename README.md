@@ -34,7 +34,7 @@ To get similar results like mine, be sure to update your [ChatGPT Custom Instruc
 # 2.1  Use Case 1: Defining the Problem Statement
 - [Problem Statement Prompt](https://github.com/amacdonaldai/AI-Empowerment/blob/main/Problem-Statement-Prompt.md)
 - [Problem Statement GPT](https://chat.openai.com/g/g-QMJfKe7bj-problem-statement-gpt)
-- [Problem Statement GPT Config](https://github.com/amacdonaldai/AI-Empowerment/blob/main/problem-statement.md)
+- [Problem Statement GPT Config](https://github.com/amacdonaldai/AI-Empowerment/blob/main/Problem-Statement-GPT.md)
 
 # 2.2  Use Case 2: Digging into the Issues (trees)
 - [Issue Tree Prompt](https://github.com/amacdonaldai/AI-Empowerment/blob/main/Issue-Tree-Prompt.md)

@@ -1,5 +1,5 @@
 # AI-Empowerment & Immersion
-A location for all files related to AI Empowerment Training. 
+Welcome to the AI Empowerment for Teams workshop repo, here you will find prompts, configs and liinks to CustomGPTs that will be used throughout the day. 
 
 We have a fantastic day planned with 80% of your time being spent experimenting (FAFO) and exploring the various tools and methods. Theory is kept to a minimum. No technical (Einstein) knowledge is required.
 

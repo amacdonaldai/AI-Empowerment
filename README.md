@@ -1,4 +1,4 @@
-# AI-Empowerment
+# AI-Empowerment & Immersion
 A location for all files related to AI Empowerment Training. 
 
 We have a fantastic day planned with 80% of your time being spent experimenting (FAFO) and exploring the various tools and methods. Theory is kept to a minimum. No technical (Einstein) knowledge is required.
@@ -7,7 +7,7 @@ We have a fantastic day planned with 80% of your time being spent experimenting 
 
 
 # Working with ChatGPT
-# Using ChatGPT (20 minutes)
+# 1. Using ChatGPT (20 minutes)
 Let's warm up in 5 Prompts.
 These prompts are designed to get comfortable with the environment. For this use-case we will use an HR process for recruiting
 Why? Because recruiting involves everyone. Everyone here has a role to play in recruiting.
@@ -18,7 +18,7 @@ Here are the prompts we will use - feel free to be creative and augment to work 
 - [Sample HR Prompts](https://github.com/amacdonaldai/AI-Empowerment/blob/main/Recruiting-Prompts.md)
 
 
-# Next...Let's make ChatGPT work harder (70 minutes)
+# 2. Next...Let's make ChatGPT work harder (70 minutes)
 Over the next hour or so we will get ChatGPT to work harder for us. In this use-case we will go through a typical marketing scenario
 in which we get really focused on a problem statement, the develop that by exploring issue trees, then work through a root cause analysis
 and finally translate our findings into a beautifully designed deck.
@@ -27,29 +27,29 @@ The morning session will cover this case study: [Case Study for ChatGPT](https:/
 
 To get similar results like mine, be sure to update your [ChatGPT Custom Instructions](https://github.com/amacdonaldai/AI-Empowerment/blob/main/Custom_Instructions.md))!
 
-# Use Case 1: Defining the Problem Statement
+# 2.1 Use Case 1: Defining the Problem Statement
 - [Problem Statement Prompt](https://github.com/amacdonaldai/AI-Empowerment/blob/main/Problem-Statement-Prompt.md)
 - [Problem Statement GPT](https://chat.openai.com/g/g-tHZOlUaYD-smart-problem-gpt)
 - [Problem Statement GPT Config](https://github.com/amacdonaldai/AI-Empowerment/blob/main/problem-statement.md)
 
-# Use Case 2: Digging into the Issues (trees)
+# 2.2 Use Case 2: Digging into the Issues (trees)
 - [Issue Tree Prompt](https://github.com/amacdonaldai/AI-Empowerment/blob/main/Issue-Tree-Prompt.md)
 - [Issue Tree GPT](https://chat.openai.com/g/g-fwNcQyMK0-issue-tree-gpt)
 - [Issue Tree GPT Config](https://github.com/amacdonaldai/AI-Empowerment/blob/main/Issue-Tree-GPT.md)
 
-# Use Case 3: Root Cause Analysis
+# 2.3 Use Case 3: Root Cause Analysis
 - [Root Cause Analysis Prompt](https://github.com/amacdonaldai/AI-Empowerment/blob/main/Root-Cause-Analysis-Prompt.md)
 - [Root Cause Analysis GPT](https://chat.openai.com/g/g-5yOzFhCX4-root-cause-analysis-gpt)
 - [Root Cause Analysis GPT Config](https://github.com/amacdonaldai/AI-Empowerment/blob/main/Root-Cause-Analysis-GPT.md)
 
-# Use Case 4: Storytelling
+# 2.4 Use Case 4: Storytelling
 - [Storytelling Prompt](https://github.com/amacdonaldai/AI-Empowerment/blob/main/Storytelling-Prompt.md)
 - [Storytelling GPT](https://chat.openai.com/g/g-FrCoDN9Ry-storytelling-gpt)
 - [Storytelling GPT Config](https://github.com/amacdonaldai/AI-Empowerment/blob/main/Storytelling-GPT.md)
 
 
-# Data Analytics (afternoon session)
-# Use Case 5: Spreadsheet Analysis
+# 3. Data Analytics (afternoon session)
+# 3.1 Use Case 5: Spreadsheet Analysis
 - [EDA Prompt](https://github.com/amacdonaldai/AI-Empowerment/blob/main/EDA-Prompt.md)
 - [Data](https://github.com/amacdonaldai/AI-Empowerment/blob/main/Store-Reports.xlsx)
 - [EDA GPT](https://chat.openai.com/g/g-BuumOqulZ-exploratory-data-analysis)

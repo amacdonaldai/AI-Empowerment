@@ -6,6 +6,7 @@ We have a fantastic day planned with 80% of your time being spent experimenting 
 **ALERT** It's important to approach these scenarios with an understanding that they may not always produce completely accurate outcomes. In some instances, achieving absolute accuracy might not be feasible. Remember, the assistance provided by AI is a tool to support your decision-making process, not to replace it. Your discernment is crucial. More insights on this topic will be shared as we progress through the course.
 
 
+# Working with ChatGPT
 # Using ChatGPT (20 minutes)
 Let's warm up in 5 Prompts.
 These prompts are designed to get comfortable with the environment. For this use-case we will use an HR process for recruiting
@@ -46,6 +47,8 @@ To get similar results like mine, be sure to update your [ChatGPT Custom Instruc
 - [Storytelling GPT](https://chat.openai.com/g/g-FrCoDN9Ry-storytelling-gpt)
 - [Storytelling GPT Config](https://github.com/amacdonaldai/AI-Empowerment/blob/main/Storytelling-GPT.md)
 
+
+# Data Analytics (afternoon session)
 # Use Case 5: Spreadsheet Analysis
 - [EDA Prompt](https://github.com/amacdonaldai/AI-Empowerment/blob/main/EDA-Prompt.md)
 - [Data](https://github.com/amacdonaldai/AI-Empowerment/blob/main/Store-Reports.xlsx)

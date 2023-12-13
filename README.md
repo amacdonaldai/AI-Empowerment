@@ -17,7 +17,7 @@ Why? Because recruiting involves everyone. Everyone here has a role to play in r
 Let's explore 5 simple prompts to guide get ChatGPT working for us.
 
 Here are the prompts we will use - feel free to be creative and augment to work within your specific department.
-- [Sample Prompts - Recruiting] (
+- [Sample HR Prompts](https://github.com/amacdonaldai/AI-Empowerment/blob/main/Problem-Statement-Prompt)
 
 # Next...Let's make ChatGPT work harder (70 minutes)
 Over the next hour or so we will get ChatGPT to work harder for us. In this use-case we will go through a typical marketing scenario

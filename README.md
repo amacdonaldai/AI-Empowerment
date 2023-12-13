@@ -25,7 +25,7 @@ in which we get really focused on a problem statement, the develop that by explo
 and finally translate our findings into a beautifully designed deck.
 
 # Use Case 1: Defining the Problem Statement
-- [Problem Statement Prompt](https://github.com/amacdonaldai/AI-Empowerment/blob/main/Problem-Statement-Prompt)
+- [Problem Statement Prompt](https://github.com/amacdonaldai/AI-Empowerment/blob/main/Problem-Statement-Prompt.md)
 - [Problem Statement GPT](https://chat.openai.com/g/g-tHZOlUaYD-smart-problem-gpt)
 - [Problem Statement GPT Config](https://github.com/amacdonaldai/AI-Empowerment/blob/main/problem-statement.md)
 

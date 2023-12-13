@@ -9,6 +9,19 @@ To get similar results like mine, be sure to update your [ChatGPT Custom Instruc
 
 **ALERT** It's important to approach these scenarios with an understanding that they may not always produce completely accurate outcomes. In some instances, achieving absolute accuracy might not be feasible. Remember, the assistance provided by AI is a tool to support your decision-making process, not to replace it. Your discernment is crucial. More insights on this topic will be shared as we progress through the course.
 
+# Using ChatGPT (20 minutes)
+Let's warm up in 5 Prompts
+These prompts are designed to get comfortable with the environment. For this use-case we will use an HR process for recruiting
+Why? Because recruiting involves everyone. Everyone here has a role to play in recruiting.
+
+Let's explore 5 simple prompts to guide get ChatGPT working for us.
+
+
+# Let's make ChatGPT work harder (70 minutes)
+Over the next hour or so we will get ChatGPT to work harder for us. In this use-case we will go through a typical marketing scenario
+in which we get really focused on a problem statement, the develop that by exploring issue trees, then work through a root cause analysis
+and finally translate our findings into a beautifully designed deck.
+
 # Use Case 1: Defining the Problem Statement
 - [Problem Statement Prompt](https://github.com/amacdonaldai/AI-Empowerment/blob/main/Problem-Statement-Prompt)
 - [Problem Statement GPT](https://chat.openai.com/g/g-tHZOlUaYD-smart-problem-gpt)

@@ -43,7 +43,7 @@ To get similar results like mine, be sure to update your [ChatGPT Custom Instruc
 
 # Use Case 4: Storytelling
 - [Storytelling Prompt](https://github.com/amacdonaldai/AI-Empowerment/blob/main/Storytelling-Prompt.md)
-- [Storytelling GPT](https://chat.openai.com/g/g-tf5gRAXAB-storytelling-gpt)
+- [Storytelling GPT](https://chat.openai.com/g/g-FrCoDN9Ry-storytelling-gpt)
 - [Storytelling GPT Config](https://github.com/amacdonaldai/AI-Empowerment/blob/main/Storytelling-GPT.md)
 
 # Use Case 5: Spreadsheet Analysis

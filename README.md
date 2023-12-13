@@ -24,6 +24,10 @@ Over the next hour or so we will get ChatGPT to work harder for us. In this use-
 in which we get really focused on a problem statement, the develop that by exploring issue trees, then work through a root cause analysis
 and finally translate our findings into a beautifully designed deck.
 
+The morning session will cover this case study: [Case Study for ChatGPT](https://github.com/amacdonaldai/AI-Empowerment/blob/main/Case%20Study%20for%20ChatGPT.pdf)
+
+To get similar results like mine, be sure to update your [ChatGPT Custom Instructions](https://github.com/amacdonaldai/AI-Empowerment/blob/main/Custom_Instructions.md))!
+
 # Use Case 1: Defining the Problem Statement
 - [Problem Statement Prompt](https://github.com/amacdonaldai/AI-Empowerment/blob/main/Problem-Statement-Prompt.md)
 - [Problem Statement GPT](https://chat.openai.com/g/g-tHZOlUaYD-smart-problem-gpt)

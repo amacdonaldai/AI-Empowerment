@@ -1,4 +1,4 @@
-# WARM UP EXERCISE: CHATGPT - YOUR RECRUITING ASSISTANT
+# 🔥 WARM UP EXERCISE: CHATGPT - YOUR RECRUITING ASSISTANT
 Let's warm-up using ChatGPT. In this exercise, you will get exposed to the power of ChatGPT and ultimately re-imagine how you hire your next employer. This process will 10x your efficiency.
 
 

@@ -1,3 +1,7 @@
+# WARM UP EXERCISE: CHATGPT - YOUR RECRUITING ASSISTANT
+Let's warm-up using ChatGPT. In this exercise, you will get exposed to the power of ChatGPT and ultimately re-imagine how you hire your next employer. This process will 10x your efficiency.
+
+
 # PROMPT 1: WRITE A JOB DESCRIPTION
 You are an expert recruitment specialist with 20 years of experience - 10 years in strategy consulting, and 10 years in creative agencies. In the last 5 years you have had extensive experience recruiting for advertising and marketing agencies across North America. 
 

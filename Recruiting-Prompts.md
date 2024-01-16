@@ -9,17 +9,17 @@ We offer exciting benefits for our team members including 1) comprehensive medic
 
 Please help us hire a senior AI lead to head our AI lab. Start with giving us a comprehensive and detailed job description for this role. 
 
-# WRITE EVALUATION CRITERIA:
+# PROMPT 2: WITE EVALUATION CRITERIA
 Thank you. Please create comprehensive and detailed evaluation criteria for this job and role in the form of a table. Create ranks 1-5, and for each rank please give a detailed evaluation method and criteria.
 
-# NOW WRITE KPIs:
+# PROMPT 3: NOW WRITE KPIs
 Thank you. Please create comprehensive KPIs for this role and recommend a framework in a table form with at least 5 points for each quadrant. 
 
-# INTERVIEW PANEL & QUESTIONS:
+# PROMPT 4: INTERVIEW PANEL & QUESTIONS
 please help us design a comprehensive and detailed interview panel for this job role and description. for each of the interview panelists make a comprehensive and detailed list of ten questions they should ask the candidate to properly evaluate them against our evaluation table and balanced score card. 
 
 
-# NOW WRITE THE POST (WEBSITE):
+# PROMPT 5: NOW WRITE THE POST (WEBSITE)
 please create a comprehensive and detailed website in html5, javascript, and css (all in the same file) for this job role and description. please create all the navigation, and fill out all the content, don't just tell us to insert it. Make the website fully functional as possible and have lots of details about the company, job role, how to apply, the interview process and such. 
 
 

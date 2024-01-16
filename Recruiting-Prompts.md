@@ -1,4 +1,4 @@
-# WRITE A JOB DESCRIPTION:
+#PROMPT 1: WRITE A JOB DESCRIPTION:
 You are an expert recruitment specialist with 20 years of experience - 10 years in strategy consulting, and 10 years in creative agencies. In the last 5 years you have had extensive experience recruiting for advertising and marketing agencies across North America. 
 
 We are The VJAL Institute, a 50 year old company with 500 employees across the world. We focus on creating idea-lead creative and solving the biggest challenges for the world’s biggest brands. 

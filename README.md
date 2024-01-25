@@ -1,9 +1,14 @@
 # AI-Empowerment & Immersion
 Welcome to the AI Empowerment for Teams workshop repo, here you will find prompts, configs and liinks to CustomGPTs that will be used throughout the day. 
 
-We have a fantastic day planned with 80% of your time being spent experimenting (FAFO) and exploring the various tools and methods. Theory is kept to a minimum. No technical (Einstein) knowledge is required.
+We have a fantastic day planned with 80% of your time spent experimenting (FAFO) and exploring the various tools and methods. Theory is kept to a minimum. No technical (Einstein) knowledge is required. This is not a typing class, I'm here to help, so lean in and engage.
 
-🚨🚨🚨 **ALERT** It's important to approach these scenarios with an understanding that they may not always produce completely accurate outcomes. In some instances, achieving absolute accuracy might not be feasible. Remember, the assistance provided by AI is a tool to support your decision-making process, not to replace it. Your discernment is crucial. More insights on this topic will be shared as we progress through the course.
+🚨🚨🚨 **ALERT** It's important to approach these scenarios with an understanding that they may not always produce completely accurate outcomes. 
+In some instances, achieving absolute accuracy might not be feasible. 
+Remember, the assistance provided by AI is a tool to support your decision-making process, not to replace it. 
+Your discression is crucial. 
+Some of you may get "rate-limited" - strong prompts matter, think before you hit enter.
+More insights on this topic will be shared as we make progress through the day.
 
 🚨🚨🚨 **STOP**  Have you tried to subscribe to ChatGPT Plus and got waitlisted?
 

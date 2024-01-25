@@ -3,7 +3,7 @@ Welcome to the AI Empowerment for Teams workshop repo, here you will find prompt
 
 We have a fantastic day planned with 80% of your time spent experimenting (FAFO) and exploring the various tools and methods. Theory is kept to a minimum. No technical (Einstein) knowledge is required. This is not a typing class, I'm here to help, so lean in and engage.
 
-🚨🚨🚨 **ALERT** 
+🚨🚨🚨 **ALERT** 🚨🚨🚨
 
 It's important to approach these scenarios with an understanding that they may not always produce completely accurate outcomes. 
 - In some instances, achieving absolute accuracy might not be feasible. 
@@ -13,7 +13,9 @@ It's important to approach these scenarios with an understanding that they may n
 - More insights on this topic will be shared as we make progress through the day.
 
 
-🚨🚨🚨 **STOP**  Have you tried to subscribe to ChatGPT Plus and got waitlisted?
+🚨🚨🚨 **STOP** 🚨🚨🚨 
+
+Have you tried to subscribe to ChatGPT Plus and got waitlisted?
 
 Try this link for ChatGPT Plus >>> chat.openai.com/invite/accepted
 

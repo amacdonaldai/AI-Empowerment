@@ -5,10 +5,14 @@ We have a fantastic day planned with 80% of your time spent experimenting (FAFO)
 
 🚨🚨🚨 **ALERT** It's important to approach these scenarios with an understanding that they may not always produce completely accurate outcomes. 
 - In some instances, achieving absolute accuracy might not be feasible. 
-Remember, the assistance provided by AI is a tool to support your decision-making process, not to replace it. 
-Your discression is crucial. 
-Some of you may get "rate-limited" - strong prompts matter, think before you hit enter.
-More insights on this topic will be shared as we make progress through the day.
+
+- Remember, the assistance provided by AI is a tool to support your decision-making process, not to replace it. 
+
+- Your discression is crucial. 
+
+- Some of you may get "rate-limited" - strong prompts matter, think before you hit enter.
+
+- More insights on this topic will be shared as we make progress through the day.
 
 🚨🚨🚨 **STOP**  Have you tried to subscribe to ChatGPT Plus and got waitlisted?
 

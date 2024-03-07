@@ -22,7 +22,7 @@ Try this link for ChatGPT Plus >>> chat.openai.com/invite/accepted
 # 🦾 MORNING SESSION
 
 ## 🤖 Working with ChatGPT
-## 💼 Session 1: Warm-up with ChatGPT (20 minutes)
+##    -  💼 Session 1: Warm-up with ChatGPT (20 minutes)
 Let's warm up in 5 Prompts.
 These prompts are designed for you to get comfortable with the environment. For this use-case we will use an HR process for recruiting
 Why? Because recruiting involves everyone. 
@@ -34,7 +34,7 @@ Here are the prompts we will use - feel free to be creative and augment to work 
 - [Sample HR Prompts](https://github.com/amacdonaldai/AI-Empowerment/blob/main/Recruiting-Prompts.md)
 
 
-## 💪 Session 2:  Next...Let's make ChatGPT work harder (70 minutes)
+##    -  💪 Session 2:  Next...Let's make ChatGPT work harder (70 minutes)
 Over the next hour or so we will get ChatGPT to work harder for us. In this use-case we will go through a typical marketing scenario
 in which we get really focused on a problem statement, the develop that by exploring issue trees, then work through a root cause analysis
 and finally translate our findings into a beautifully designed deck.

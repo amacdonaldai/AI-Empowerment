@@ -74,6 +74,7 @@ Session 2 will leverage this case study: [Ontario Creates - Our Time is Now ](ht
 <br>
 <br>
 <br>
+
 # 🦾 Afternoon Session
 
 ## 📊 Session 3.  Data Analytics - British Airways

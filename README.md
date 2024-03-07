@@ -66,7 +66,7 @@ To get similar results like mine, be sure to update your [ChatGPT Custom Instruc
 
 # 🦾 AFTERNOON SESSION
 
-# 📊 Session 3.  Data Analytics (afternoon session)
+# 📊 Session 3.  Data Analytics - British Airways
 # 📈 3.1  Use Case 5: Spreadsheet Analysis
 - [EDA Prompt](https://github.com/amacdonaldai/AI-Empowerment/blob/main/EDA-Prompt.md)
 - [Data](https://github.com/amacdonaldai/AI-Empowerment/blob/main/Store-Reports.xlsx)

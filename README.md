@@ -40,7 +40,8 @@ Here are the prompts we will use - feel free to be creative and augment to work 
 <br>
 <br>
 
-## Quick FAFO - diagrams (using Diagram Genius)
+## Quick FAFO - Diagrams (using Diagram Genius)
+Multi-modal experiment
 - [Diagram Genius](https://chat.openai.com/g/g-5Qx0mOEND-diagram-genius)
 
 

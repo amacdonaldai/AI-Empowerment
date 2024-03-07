@@ -43,7 +43,7 @@ and finally translate our findings into a beautifully designed deck.
 
 Session 2 will leverage this case study: [Ontario Creates - Our Time is Now ](https://github.com/amacdonaldai/AI-Empowerment/blob/main/OntarioCreates.pdf)
 
-To get similar results like mine, be sure to update your [ChatGPT Custom Instructions](https://github.com/amacdonaldai/AI-Empowerment/blob/main/Custom_Instructions.md))!
+<!---To get similar results like mine, be sure to update your [ChatGPT Custom Instructions](https://github.com/amacdonaldai/AI-Empowerment/blob/main/Custom_Instructions.md))--->
 
 ## ❓ Session 2.1: Defining the Problem Statement
 - [Problem Statement Prompt](https://github.com/amacdonaldai/AI-Empowerment/blob/main/Problem-Statement-Prompt.md)

@@ -18,7 +18,8 @@ It's important to approach these scenarios with an understanding that they may n
 Have you tried to subscribe to ChatGPT Plus and got waitlisted?
 
 Try this link for ChatGPT Plus >>> chat.openai.com/invite/accepted
-
+<br>
+<br>
 # 🦾 Morning Session
 
 ## 🤖 Working with ChatGPT

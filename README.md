@@ -19,7 +19,7 @@ Have you tried to subscribe to ChatGPT Plus and got waitlisted?
 
 Try this link for ChatGPT Plus >>> chat.openai.com/invite/accepted
 
-# 🦾 MORNING SESSION
+# 🦾 Morning Session
 
 ## 🤖 Working with ChatGPT
 ##    💼 Session 1: Warm-up with ChatGPT (20 minutes)
@@ -68,7 +68,7 @@ Session 2 will leverage this case study: [Ontario Creates - Our Time is Now ](ht
 
 
 
-# 🦾 AFTERNOON SESSION
+# 🦾 Afternoon Session
 
 ## 📊 Session 3.  Data Analytics - British Airways
 ## 📈 3.1  Use Case 5: Spreadsheet Analysis

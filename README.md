@@ -36,10 +36,12 @@ Let's explore 5 simple prompts to get ChatGPT working for us.
 
 Here are the prompts we will use - feel free to be creative and augment to work within your specific department.
 - [Sample HR Prompts](https://github.com/amacdonaldai/AI-Empowerment/blob/main/Recruiting-Prompts.md)
+- 
 <br>
 <br>
-### Quick FAFO - diagrams (using Diagram Genius)
-CustomGPT - [Diagram Genius](https://chat.openai.com/g/g-5Qx0mOEND-diagram-genius)
+
+## Quick FAFO - diagrams (using Diagram Genius)
+- [Diagram Genius](https://chat.openai.com/g/g-5Qx0mOEND-diagram-genius)
 
 
 

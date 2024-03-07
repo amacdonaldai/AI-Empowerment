@@ -78,7 +78,6 @@ Session 2 will leverage this case study: [Ontario Creates - Our Time is Now ](ht
 # 🦾 Afternoon Session
 
 ## 📊 Session 3.  Data Analytics - British Airways
-## 📈 3.1  Use Case 5: Spreadsheet Analysis
 - [EDA Prompt](https://github.com/amacdonaldai/AI-Empowerment/blob/main/EDA-Prompt.md)
 - [Data](https://github.com/amacdonaldai/AI-Empowerment/blob/main/Store-Reports.xlsx)
 - [EDA GPT](https://chat.openai.com/g/g-BuumOqulZ-exploratory-data-analysis)

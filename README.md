@@ -36,14 +36,15 @@ Let's explore 5 simple prompts to get ChatGPT working for us.
 
 Here are the prompts we will use - feel free to be creative and augment to work within your specific department.
 - [Sample HR Prompts](https://github.com/amacdonaldai/AI-Empowerment/blob/main/Recruiting-Prompts.md)
-- 
+  
 <br>
   
 ## Quick FAFO - Diagrams (using Diagram Genius)
 Multi-modal experiment
 - [Diagram Genius](https://chat.openai.com/g/g-5Qx0mOEND-diagram-genius)
 
-
+<br>
+<br>
 
 ##    💪 Session 2:  Next...Let's make ChatGPT work harder (70 minutes)
 Over the next hour or so we will get ChatGPT to work harder for us. In this use-case we will go through a typical marketing scenario

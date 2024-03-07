@@ -39,7 +39,7 @@ Over the next hour or so we will get ChatGPT to work harder for us. In this use-
 in which we get really focused on a problem statement, the develop that by exploring issue trees, then work through a root cause analysis
 and finally translate our findings into a beautifully designed deck.
 
-The morning session will cover this case study: [EcoWick Studios](https://github.com/amacdonaldai/AI-Empowerment/blob/main/EcoWick_Studios_Case_Study.pdf) 
+<!---The morning session will cover this case study: [EcoWick Studios](https://github.com/amacdonaldai/AI-Empowerment/blob/main/EcoWick_Studios_Case_Study.pdf)--->
 
 Session 2 will leverage this case study: [Ontario Creates - Our Time is Now ](https://github.com/amacdonaldai/AI-Empowerment/blob/main/OntarioCreates.pdf)
 

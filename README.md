@@ -43,22 +43,22 @@ The morning session will cover this case study: [EcoWick Studios](https://github
 
 To get similar results like mine, be sure to update your [ChatGPT Custom Instructions](https://github.com/amacdonaldai/AI-Empowerment/blob/main/Custom_Instructions.md))!
 
-# ❓ Session 2.1  Use Case 1: Defining the Problem Statement
+# ❓ Session 2.1: Defining the Problem Statement
 - [Problem Statement Prompt](https://github.com/amacdonaldai/AI-Empowerment/blob/main/Problem-Statement-Prompt.md)
 - [Problem Statement GPT](https://chat.openai.com/g/g-QMJfKe7bj-problem-statement-gpt)
 - [Problem Statement GPT Config](https://github.com/amacdonaldai/AI-Empowerment/blob/main/Problem-Statement-GPT.md)
 
-# 🔍 Session 2.2  Use Case 2: Digging into the Issues (trees)
+# 🔍 Session 2.2: Digging into the Issues (trees)
 - [Issue Tree Prompt](https://github.com/amacdonaldai/AI-Empowerment/blob/main/Issue-Tree-Prompt.md)
 - [Issue Tree GPT](https://chat.openai.com/g/g-fwNcQyMK0-issue-tree-gpt)
 - [Issue Tree GPT Config](https://github.com/amacdonaldai/AI-Empowerment/blob/main/Issue-Tree-GPT.md)
 
-# 🌳 Session 2.3  Use Case 3: Root Cause Analysis
+# 🌳 Session 2.3: Root Cause Analysis
 - [Root Cause Analysis Prompt](https://github.com/amacdonaldai/AI-Empowerment/blob/main/Root-Cause-Analysis-Prompt.md)
 - [Root Cause Analysis GPT](https://chat.openai.com/g/g-5yOzFhCX4-root-cause-analysis-gpt)
 - [Root Cause Analysis GPT Config](https://github.com/amacdonaldai/AI-Empowerment/blob/main/Root-Cause-Analysis-GPT.md)
 
-# 📖 Session 2.4  Use Case 4: Storytelling
+# 📖 Session 2.4: Storytelling
 - [Storytelling Prompt](https://github.com/amacdonaldai/AI-Empowerment/blob/main/Storytelling-Prompt.md)
 - [Storytelling GPT](https://chat.openai.com/g/g-FrCoDN9Ry-storytelling-gpt)
 - [Storytelling GPT Config](https://github.com/amacdonaldai/AI-Empowerment/blob/main/Storytelling-GPT.md)

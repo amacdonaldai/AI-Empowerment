@@ -21,7 +21,7 @@ Try this link for ChatGPT Plus >>> chat.openai.com/invite/accepted
 
 # 🦾 MORNING SESSION
 
-# 🤖 Working with ChatGPT
+## 🤖 Working with ChatGPT
 # 💼 Session 1. Using ChatGPT (20 minutes)
 Let's warm up in 5 Prompts.
 These prompts are designed to get comfortable with the environment. For this use-case we will use an HR process for recruiting

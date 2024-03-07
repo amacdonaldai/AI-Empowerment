@@ -78,11 +78,14 @@ Session 2 will leverage this case study: [Ontario Creates - Our Time is Now ](ht
 
 # 🦾 Afternoon Session
 
-## 📊 Session 3.  Data Analytics - British Airways
-- [EDA Prompt](https://github.com/amacdonaldai/AI-Empowerment/blob/main/EDA-Prompt.md)
+## 📊 Session 3:  Data Analytics - British Airways 
+
+
+<!---- [EDA Prompt](https://github.com/amacdonaldai/AI-Empowerment/blob/main/EDA-Prompt.md)
 - [Data](https://github.com/amacdonaldai/AI-Empowerment/blob/main/Store-Reports.xlsx)
 - [EDA GPT](https://chat.openai.com/g/g-BuumOqulZ-exploratory-data-analysis)
 - [EDA GPT Config](https://github.com/amacdonaldai/AI-Empowerment/blob/main/EDA-GPT.md)
 - Bonus: [Chat example](https://chat.openai.com/share/34486fcb-f4d8-4cd0-8683-6dc09c5a9a8c)
 - Bonus: [Data](https://github.com/amacdonaldai/AI-Empowerment/blob/main/Ecommerce-Transactions.csv)
-- Bonus: [Data Analysis GPT](https://chat.openai.com/g/g-HMNcP6w7d-data-analysis)
+- Bonus: [Data Analysis GPT](https://chat.openai.com/g/g-HMNcP6w7d-data-analysis)--->
+

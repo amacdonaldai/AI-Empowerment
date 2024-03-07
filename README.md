@@ -38,8 +38,7 @@ Here are the prompts we will use - feel free to be creative and augment to work 
 - [Sample HR Prompts](https://github.com/amacdonaldai/AI-Empowerment/blob/main/Recruiting-Prompts.md)
 - 
 <br>
-<br>
-
+  
 ## Quick FAFO - Diagrams (using Diagram Genius)
 Multi-modal experiment
 - [Diagram Genius](https://chat.openai.com/g/g-5Qx0mOEND-diagram-genius)

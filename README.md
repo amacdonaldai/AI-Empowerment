@@ -40,6 +40,7 @@ in which we get really focused on a problem statement, the develop that by explo
 and finally translate our findings into a beautifully designed deck.
 
 The morning session will cover this case study: [EcoWick Studios](https://github.com/amacdonaldai/AI-Empowerment/blob/main/EcoWick_Studios_Case_Study.pdf) 
+
 [!IMPORTANT] 
 Session 2 session will leverage this case study: [Ontario Creates - Our Time is Now ](https://github.com/amacdonaldai/AI-Empowerment/blob/main/OntarioCreates.pdf)
 

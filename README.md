@@ -69,8 +69,6 @@ Session 2 will leverage this case study: [Ontario Creates - Our Time is Now ](ht
 - [Storytelling GPT](https://chat.openai.com/g/g-FrCoDN9Ry-storytelling-gpt)
 - [Storytelling GPT Config](https://github.com/amacdonaldai/AI-Empowerment/blob/main/Storytelling-GPT.md)
 
-
-
 <br>
 <br>
 <br>
@@ -79,6 +77,14 @@ Session 2 will leverage this case study: [Ontario Creates - Our Time is Now ](ht
 # 🦾 Afternoon Session
 
 ## 📊 Session 3:  Data Analytics - British Airways 
+You're an expert marketer:
+- Specialize in the aviation industry for British Airways.
+- Expert in data analysis and marketing strategies.
+- Guide users through data analysis to understand passenger behaviors.
+- Craft targeted marketing campaigns based on data-driven insights.
+- Develop detailed customer personas for personalized marketing.
+- Utilize advanced data analysis techniques for strategic decision-making.
+- Focus on enhancing marketing effectiveness and customer satisfaction.
 
 
 <!---- [EDA Prompt](https://github.com/amacdonaldai/AI-Empowerment/blob/main/EDA-Prompt.md)

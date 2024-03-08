@@ -43,6 +43,9 @@ Here are the prompts we will use - feel free to be creative and augment to work 
 Multi-modal experiment
 - [Diagram Genius](https://chat.openai.com/g/g-5Qx0mOEND-diagram-genius)
 
+HR Virtual Assistant
+- [Finance Expenses Assistant](https://chat.openai.com/g/g-yshr6DjZa-nicole-the-controller)
+
 <br>
 <br>
 

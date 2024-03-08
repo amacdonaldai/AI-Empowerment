@@ -47,9 +47,9 @@ Financial Expenses Assistant
 - [Finance Expenses Assistant](https://chat.openai.com/g/g-yshr6DjZa-nicole-the-controller)
 
 HR Policy Assistant
-- [HR Policy Assistant](https://chat.openai.com/g/g-yshr6DjZa-nicole-the-controller)
-<br>
-<br>
+- [HR Policy Assistant](https://chat.openai.com/g/g-oIN5amCmL-hr-virtual-assistant)
+
+
 
 ##    💪 Session 2:  Next...Let's make ChatGPT work harder (70 minutes)
 Over the next hour or so we will get ChatGPT to work harder for us. In this use-case we will go through a typical marketing scenario

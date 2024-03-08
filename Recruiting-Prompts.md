@@ -30,4 +30,4 @@ please create a comprehensive and detailed website in html5, javascript, and css
 # 💻 PROMPT 6: CUT & PASTE THE RESUME
 Evaluate this resume against our evaluation criteria and provide me with a recommendation on whether or not to hire this individual.
 
-[Resume]
+[Resume](https://github.com/amacdonaldai/AI-Empowerment/blob/main/OntarioCreates.pdf)

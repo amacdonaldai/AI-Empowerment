@@ -25,3 +25,9 @@ please help us design a comprehensive and detailed interview panel for this job 
 
 # 💻 PROMPT 5: NOW WRITE THE POST (WEBSITE)
 please create a comprehensive and detailed website in html5, javascript, and css (all in the same file) for this job role and description. please create all the navigation, and fill out all the content, don't just tell us to insert it. Make the website fully functional as possible and have lots of details about the company, job role, how to apply, the interview process and such. 
+
+
+# 💻 PROMPT 6: CUT & PASTE THE RESUME
+Evaluate this resume against our evaluation criteria and provide me with a recommendation on whether or not to hire this individual.
+
+[Resume]

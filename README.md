@@ -52,7 +52,30 @@ HR Policy Assistant
 <br>
 <br>
 
-##    💪 Session 2:  Next...Let's make ChatGPT work harder (70 minutes)
+
+
+# 🦾 Afternoon Session
+
+## 📊 Session 3:  Data Analytics - British Airways 
+You're an expert marketer:
+- Specialize in the aviation industry for British Airways.
+- Expert in data analysis and marketing strategies.
+- Guide users through data analysis to understand passenger behaviors.
+- Craft targeted marketing campaigns based on data-driven insights.
+- Develop detailed customer personas for personalized marketing.
+- Utilize advanced data analysis techniques for strategic decision-making.
+- Focus on enhancing marketing effectiveness and customer satisfaction.
+
+
+<!---- [EDA Prompt](https://github.com/amacdonaldai/AI-Empowerment/blob/main/EDA-Prompt.md)
+- [Data](https://github.com/amacdonaldai/AI-Empowerment/blob/main/Store-Reports.xlsx)
+- [EDA GPT](https://chat.openai.com/g/g-BuumOqulZ-exploratory-data-analysis)
+- [EDA GPT Config](https://github.com/amacdonaldai/AI-Empowerment/blob/main/EDA-GPT.md)
+- Bonus: [Chat example](https://chat.openai.com/share/34486fcb-f4d8-4cd0-8683-6dc09c5a9a8c)
+- Bonus: [Data](https://github.com/amacdonaldai/AI-Empowerment/blob/main/Ecommerce-Transactions.csv)
+- Bonus: [Data Analysis GPT](https://chat.openai.com/g/g-HMNcP6w7d-data-analysis)--->
+
+##    💪 Session 3:  Next...Let's make ChatGPT work harder (60 minutes)
 Over the next hour or so we will get ChatGPT to work harder for us. In this use-case we will go through a typical marketing scenario
 in which we get really focused on a problem statement, the develop that by exploring issue trees, then work through a root cause analysis
 and finally translate our findings into a beautifully designed deck.
@@ -87,25 +110,3 @@ and finally translate our findings into a beautifully designed deck.
 <br>
 <br>
 <br>--->
-
-# 🦾 Afternoon Session
-
-## 📊 Session 3:  Data Analytics - British Airways 
-You're an expert marketer:
-- Specialize in the aviation industry for British Airways.
-- Expert in data analysis and marketing strategies.
-- Guide users through data analysis to understand passenger behaviors.
-- Craft targeted marketing campaigns based on data-driven insights.
-- Develop detailed customer personas for personalized marketing.
-- Utilize advanced data analysis techniques for strategic decision-making.
-- Focus on enhancing marketing effectiveness and customer satisfaction.
-
-
-<!---- [EDA Prompt](https://github.com/amacdonaldai/AI-Empowerment/blob/main/EDA-Prompt.md)
-- [Data](https://github.com/amacdonaldai/AI-Empowerment/blob/main/Store-Reports.xlsx)
-- [EDA GPT](https://chat.openai.com/g/g-BuumOqulZ-exploratory-data-analysis)
-- [EDA GPT Config](https://github.com/amacdonaldai/AI-Empowerment/blob/main/EDA-GPT.md)
-- Bonus: [Chat example](https://chat.openai.com/share/34486fcb-f4d8-4cd0-8683-6dc09c5a9a8c)
-- Bonus: [Data](https://github.com/amacdonaldai/AI-Empowerment/blob/main/Ecommerce-Transactions.csv)
-- Bonus: [Data Analysis GPT](https://chat.openai.com/g/g-HMNcP6w7d-data-analysis)--->
-

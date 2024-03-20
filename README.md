@@ -80,11 +80,15 @@ Over the next hour or so we will get ChatGPT to work harder for us:
 - Break out into groups of 10
 - Roughly 5 groups
 - Each group will come up with a specific and unique use-case for AI to help solve
+- We will build 2 CustomGPT assistants today
 <br>
 <br>
 
-We will take the time to fine-tune each use-case and then build a custom app that will be your personal assistant.
-- [Problem Statement Prompt](https://github.com/amacdonaldai/AI-Empowerment/blob/main/Problem-Statement-Prompt.md)
+# We will follow a simple process:
+- Understand the problem
+- Review the data (if available)
+- Instruct the system
+- Test, fine-tune, test, fine-tune
 
 <!---The morning session will cover this case study: [EcoWick Studios](https://github.com/amacdonaldai/AI-Empowerment/blob/main/EcoWick_Studios_Case_Study.pdf)--->
 

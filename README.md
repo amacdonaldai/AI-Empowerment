@@ -54,7 +54,7 @@ HR Policy Assistant
 
 # 🦾 Afternoon Session
 
-## 📊 Session 2:  Data Analytics - British Airways 
+## 📊 Session 2:  Data Analytics - British Airways (40 minutes)
 You're an expert marketer:
 - Specialize in the aviation industry for British Airways.
 - Expert in data analysis and marketing strategies.

@@ -94,6 +94,9 @@ Over the next hour or so we will get ChatGPT to work harder for us:
 
 ## ❓ Session 3.1: Custom Assistant
 - [Custom Assistant](https://docs.google.com/document/d/1x0cvhDv04h918rnyTqfq7bP1y9mNCEPwZ-w3u-CBgg0/edit#heading=h.yspy8tt3f0xe)
+- [Perplexity](https://www.perplexity.ai/)
+- [Julius](https://julius.ai/)
+- [Chat with your PDF](https://www.humata.ai/)
 
 
 <!---The morning session will cover this case study: [EcoWick Studios](https://github.com/amacdonaldai/AI-Empowerment/blob/main/EcoWick_Studios_Case_Study.pdf)--->

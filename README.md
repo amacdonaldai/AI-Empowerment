@@ -86,7 +86,9 @@ Over the next hour or so we will get ChatGPT to work harder for us:
 
 ## We will follow a simple process:
 - Understand the problem
+- Describe the ideal outcome (what will it do for you)
 - Review the data (if available)
+- Name the assistant
 - Instruct the system
 - Test, fine-tune, test, fine-tune
 

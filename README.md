@@ -98,6 +98,8 @@ Over the next hour or so we will get ChatGPT to work harder for us:
 - [Julius](https://julius.ai/)
 - [Chat with your PDF](https://www.humata.ai/)
 - [Anthropic Claude](https://claude.ai/)
+- [Google Gemini](https://gemini.google.com/)
+- 
 
 
 <!---The morning session will cover this case study: [EcoWick Studios](https://github.com/amacdonaldai/AI-Empowerment/blob/main/EcoWick_Studios_Case_Study.pdf)--->

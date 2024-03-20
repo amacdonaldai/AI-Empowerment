@@ -25,7 +25,6 @@ Try this link for ChatGPT Plus >>> chat.openai.com/invite/accepted
 <br>
 # 🦾 Morning Session
 
-## 🤖 Working with ChatGPT
 ##    💼 Session 1: Warm-up with ChatGPT (20 minutes)
 Let's warm up in 7 Prompts.
 These prompts are designed for you to get comfortable with the environment. For this use-case we will use an HR process for recruiting
@@ -75,7 +74,8 @@ You're an expert marketer:
 - Bonus: [Data Analysis GPT](https://chat.openai.com/g/g-HMNcP6w7d-data-analysis)--->
 <br>
 <br>
-##    💪 Session 3:  Next...Let's make ChatGPT work harder (60 minutes)
+
+## 💪 Session 3:  Next...Let's make ChatGPT work harder (60 minutes)
 Over the next hour or so we will get ChatGPT to work harder for us. In this use-case we will go through a typical marketing scenario
 in which we get really focused on a problem statement, the develop that by exploring issue trees, then work through a root cause analysis
 and finally translate our findings into a beautifully designed deck.

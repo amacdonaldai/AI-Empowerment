@@ -53,10 +53,9 @@ HR Policy Assistant
 <br>
 
 
-
 # 🦾 Afternoon Session
 
-## 📊 Session 3:  Data Analytics - British Airways 
+## 📊 Session 2:  Data Analytics - British Airways 
 You're an expert marketer:
 - Specialize in the aviation industry for British Airways.
 - Expert in data analysis and marketing strategies.
@@ -74,7 +73,8 @@ You're an expert marketer:
 - Bonus: [Chat example](https://chat.openai.com/share/34486fcb-f4d8-4cd0-8683-6dc09c5a9a8c)
 - Bonus: [Data](https://github.com/amacdonaldai/AI-Empowerment/blob/main/Ecommerce-Transactions.csv)
 - Bonus: [Data Analysis GPT](https://chat.openai.com/g/g-HMNcP6w7d-data-analysis)--->
-
+<br>
+<br>
 ##    💪 Session 3:  Next...Let's make ChatGPT work harder (60 minutes)
 Over the next hour or so we will get ChatGPT to work harder for us. In this use-case we will go through a typical marketing scenario
 in which we get really focused on a problem statement, the develop that by exploring issue trees, then work through a root cause analysis

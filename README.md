@@ -63,7 +63,7 @@ and finally translate our findings into a beautifully designed deck.
 
 <!---To get similar results like mine, be sure to update your [ChatGPT Custom Instructions](https://github.com/amacdonaldai/AI-Empowerment/blob/main/Custom_Instructions.md))--->
 
-## ❓ Session 2.1: Defining the Problem Statement
+<!---## ❓ Session 2.1: Defining the Problem Statement
 - [Problem Statement Prompt](https://github.com/amacdonaldai/AI-Empowerment/blob/main/Problem-Statement-Prompt.md)
 - [Problem Statement GPT](https://chat.openai.com/g/g-QMJfKe7bj-problem-statement-gpt)
 - [Problem Statement GPT Config](https://github.com/amacdonaldai/AI-Empowerment/blob/main/Problem-Statement-GPT.md)
@@ -86,7 +86,7 @@ and finally translate our findings into a beautifully designed deck.
 <br>
 <br>
 <br>
-<br>
+<br>--->
 
 # 🦾 Afternoon Session
 

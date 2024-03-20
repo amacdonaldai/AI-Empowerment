@@ -82,6 +82,8 @@ Over the next hour or so we will get ChatGPT to work harder for us:
 - Each group will come up with a specific and unique use-case for AI to help solve
 - We will build 2 CustomGPT assistants today
 <br>
+<br>
+
 ## We will follow a simple process:
 - Understand the problem
 - Review the data (if available)

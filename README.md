@@ -99,12 +99,12 @@ Over the next hour or so we will get ChatGPT to work harder for us:
 
 <!---To get similar results like mine, be sure to update your [ChatGPT Custom Instructions](https://github.com/amacdonaldai/AI-Empowerment/blob/main/Custom_Instructions.md))--->
 
-<!---## ❓ Session 2.1: Defining the Problem Statement
+## ❓ Session 3.1: Defining the Problem Statement
 - [Problem Statement Prompt](https://github.com/amacdonaldai/AI-Empowerment/blob/main/Problem-Statement-Prompt.md)
 - [Problem Statement GPT](https://chat.openai.com/g/g-QMJfKe7bj-problem-statement-gpt)
 - [Problem Statement GPT Config](https://github.com/amacdonaldai/AI-Empowerment/blob/main/Problem-Statement-GPT.md)
 
-## 🔍 Session 2.2: Digging into the Issues (trees)
+<!---## 🔍 Session 2.2: Digging into the Issues (trees)
 - [Issue Tree Prompt](https://github.com/amacdonaldai/AI-Empowerment/blob/main/Issue-Tree-Prompt.md)
 - [Issue Tree GPT](https://chat.openai.com/g/g-fwNcQyMK0-issue-tree-gpt)
 - [Issue Tree GPT Config](https://github.com/amacdonaldai/AI-Empowerment/blob/main/Issue-Tree-GPT.md)

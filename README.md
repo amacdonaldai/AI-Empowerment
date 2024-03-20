@@ -92,7 +92,8 @@ Over the next hour or so we will get ChatGPT to work harder for us:
 - Instruct the system
 - Test, fine-tune, test, fine-tune
 
-
+## ❓ Session 3.1: Custom Assistant
+- [Custom Assistant](https://docs.google.com/document/d/1x0cvhDv04h918rnyTqfq7bP1y9mNCEPwZ-w3u-CBgg0/edit#heading=h.yspy8tt3f0xe))
 
 
 <!---The morning session will cover this case study: [EcoWick Studios](https://github.com/amacdonaldai/AI-Empowerment/blob/main/EcoWick_Studios_Case_Study.pdf)--->
@@ -101,12 +102,12 @@ Over the next hour or so we will get ChatGPT to work harder for us:
 
 <!---To get similar results like mine, be sure to update your [ChatGPT Custom Instructions](https://github.com/amacdonaldai/AI-Empowerment/blob/main/Custom_Instructions.md))--->
 
-## ❓ Session 3.1: Defining the Problem Statement
+<!---## ❓ Session 3.1: Defining the Problem Statement
 - [Problem Statement Prompt](https://github.com/amacdonaldai/AI-Empowerment/blob/main/Problem-Statement-Prompt.md)
 - [Problem Statement GPT](https://chat.openai.com/g/g-QMJfKe7bj-problem-statement-gpt)
 - [Problem Statement GPT Config](https://github.com/amacdonaldai/AI-Empowerment/blob/main/Problem-Statement-GPT.md)
 
-<!---## 🔍 Session 2.2: Digging into the Issues (trees)
+## 🔍 Session 2.2: Digging into the Issues (trees)
 - [Issue Tree Prompt](https://github.com/amacdonaldai/AI-Empowerment/blob/main/Issue-Tree-Prompt.md)
 - [Issue Tree GPT](https://chat.openai.com/g/g-fwNcQyMK0-issue-tree-gpt)
 - [Issue Tree GPT Config](https://github.com/amacdonaldai/AI-Empowerment/blob/main/Issue-Tree-GPT.md)

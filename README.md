@@ -76,9 +76,9 @@ You're an expert marketer:
 <br>
 
 ## 💪 Session 3:  Next...Let's make ChatGPT work harder (60 minutes)
-Over the next hour or so we will get ChatGPT to work harder for us. In this use-case we will go through a typical marketing scenario
-in which we get really focused on a problem statement, the develop that by exploring issue trees, then work through a root cause analysis
-and finally translate our findings into a beautifully designed deck.
+Over the next hour or so we will get ChatGPT to work harder for us. In this session we will break out into 
+groups of 10 (roughly) and come up with 4 use-cases your group would like AI to solve. We will take the time 
+to fine-tune each use-case and then build a custom app that will be your personal assistant.
 
 <!---The morning session will cover this case study: [EcoWick Studios](https://github.com/amacdonaldai/AI-Empowerment/blob/main/EcoWick_Studios_Case_Study.pdf)--->
 

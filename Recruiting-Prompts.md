@@ -31,3 +31,7 @@ please create a comprehensive and detailed website in html5, javascript, and css
 Evaluate this resume against our evaluation criteria and provide me with a recommendation on whether or not to hire this individual.
 
 [Resume](https://github.com/amacdonaldai/AI-Empowerment/blob/main/Random.pdf)
+
+
+# 💻 PROMPT 7: NOW WRITE A RECRUITING PLAYBOOK
+Given we now have a repeatable methodology for recruiting, write a comprehensive playbook which we can share with our organization. The playbook needs to incorporate all the above steps to ensure we routinely follow the process diligently.

@@ -127,12 +127,12 @@ You're an expert marketer:
 
 ## 💪 Session 3:  Next...Let's make ChatGPT work harder (60 minutes)
 Over the next hour or so we will get ChatGPT to work harder for us: 
-- Break out into groups of 10
+<!---- Break out into groups of 10
 - Roughly 5 groups
 - Each group will come up with a specific and unique use-case for AI to help solve
 - We will build 2 CustomGPT assistants today
 <br>
-<br>
+<br>--->
 
 ## We will follow a simple process:
 - Understand the problem

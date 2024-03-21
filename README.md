@@ -43,14 +43,17 @@ Here are the prompts we will use - feel free to be creative and augment to work 
 - [Diagram Genius](https://chat.openai.com/g/g-5QhhdsfDj-diagrams-show-me)
 <br>
 <br>
+
 ### Financial Expenses Assistant
 - [Finance Expenses Assistant](https://chat.openai.com/g/g-yshr6DjZa-nicole-the-controller)
 <br>
 <br>
+
 ### HR Policy Assistant
 - [HR Policy Assistant](https://chat.openai.com/g/g-oIN5amCmL-hr-virtual-assistant)
 <br>
 <br>
+
 ### Financial Analyst
 - [ETSY SEC Filing](https://github.com/amacdonaldai/AI-Empowerment/blob/main/ETSY.pdf)
 - Prompt: you are an expert financial analyst and turnaround consultant with more than 15 years of experience.

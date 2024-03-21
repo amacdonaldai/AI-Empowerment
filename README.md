@@ -49,7 +49,7 @@ HR Policy Assistant
 - [HR Policy Assistant](https://chat.openai.com/g/g-oIN5amCmL-hr-virtual-assistant)
 
 Financial Analyst
-- [ETSY SEC Filing](https://chat.openai.com/g/g-oIN5amCmL-hr-virtual-assistant)
+- [ETSY SEC Filing]((https://github.com/amacdonaldai/AI-Empowerment/ETSY.pdf)
 <br>
 <br>
 

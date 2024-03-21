@@ -38,7 +38,7 @@ Here are the prompts we will use - feel free to be creative and augment to work 
   
 <br>
   
-## Quick FAFO - Various Experiments
+## :fire: Rapid FAFO - Various Experiments
 Multi-modal experiment
 - [Diagram Genius](https://chat.openai.com/g/g-5QhhdsfDj-diagrams-show-me)
 

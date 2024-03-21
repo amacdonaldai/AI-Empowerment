@@ -79,7 +79,13 @@ Ideation & Brainstorming
   operations, ensuring more surplus food reaches those in need efficiently.
 
   Community Engagement Initiatives: Propose initiatives that could foster a sense of community among donors, volunteers, and beneficiaries,
-  strengthening the network of support for food rescue and distribution. 
+  strengthening the network of support for food rescue and distribution.
+
+Voice Cloning
+- [Eleven Labs] (https://elevenlabs.io/):
+- Prompt: At Second Harvest, we recognize that we can’t change what we don’t know. For us, knowing means conducting research about food loss and
+  waste and our food landscape in Canada. By understanding where and how food is wasted, as well as where it is used across the supply chain, we
+  are better equipped to manage this food.  
 <br>
 <br>
 

@@ -39,16 +39,19 @@ Here are the prompts we will use - feel free to be creative and augment to work 
 <br>
   
 ## :fire: Rapid FAFO - Various Experiments
-Multi-modal experiment
+### Multi-modal experiment
 - [Diagram Genius](https://chat.openai.com/g/g-5QhhdsfDj-diagrams-show-me)
-
-Financial Expenses Assistant
+<br>
+<br>
+### Financial Expenses Assistant
 - [Finance Expenses Assistant](https://chat.openai.com/g/g-yshr6DjZa-nicole-the-controller)
-
-HR Policy Assistant
+<br>
+<br>
+### HR Policy Assistant
 - [HR Policy Assistant](https://chat.openai.com/g/g-oIN5amCmL-hr-virtual-assistant)
-
-Financial Analyst
+<br>
+<br>
+### Financial Analyst
 - [ETSY SEC Filing](https://github.com/amacdonaldai/AI-Empowerment/blob/main/ETSY.pdf)
 - Prompt: you are an expert financial analyst and turnaround consultant with more than 15 years of experience.
   Think like a harvard MBA. Thinklike a Goldman Sachs expert. You are ruthless, candid, and a stickler for numbers
@@ -56,8 +59,9 @@ Financial Analyst
   for the company. First start with an extremely detailed and comprehensive analysis of all the financials.
   Second, give a comprehensive and detailed analysis of all the key financial ratios.
   Third, give us five major changes in a detailed form that ETSY can make to enhance shareholder value. 
-
-Ideation & Brainstorming
+<br>
+<br>
+### Ideation & Brainstorming
 - Prompt: You are my ideation and brainstorming assistant tasked with generating innovative ideas to support Second Harvest,
   a leading food charity dedicated to rescuing surplus food and addressing food insecurity in Canada. With a mission to not
   only feed people but also educate the public and policymakers about food waste and food rescue, your role is to brainstorm
@@ -80,8 +84,9 @@ Ideation & Brainstorming
 
   Community Engagement Initiatives: Propose initiatives that could foster a sense of community among donors, volunteers, and beneficiaries,
   strengthening the network of support for food rescue and distribution.
-
-Voice Cloning
+<br>
+<br>
+###Voice Cloning
 - [Eleven Labs](https://elevenlabs.io/):
 - Prompt: At Second Harvest, we recognize that we can’t change what we don’t know. For us, knowing means conducting research about food loss and
   waste and our food landscape in Canada. By understanding where and how food is wasted, as well as where it is used across the supply chain, we

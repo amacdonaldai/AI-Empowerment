@@ -64,6 +64,7 @@ Here are the prompts we will use - feel free to be creative and augment to work 
   Third, give us five major changes in a detailed form that ETSY can make to enhance shareholder value. 
 <br>
 <br>
+
 ### Ideation & Brainstorming
 - Prompt: You are my ideation and brainstorming assistant tasked with generating innovative ideas to support Second Harvest,
   a leading food charity dedicated to rescuing surplus food and addressing food insecurity in Canada. With a mission to not
@@ -89,7 +90,8 @@ Here are the prompts we will use - feel free to be creative and augment to work 
   strengthening the network of support for food rescue and distribution.
 <br>
 <br>
-###Voice Cloning
+
+### Voice Cloning
 - [Eleven Labs](https://elevenlabs.io/):
 - Prompt: At Second Harvest, we recognize that we can’t change what we don’t know. For us, knowing means conducting research about food loss and
   waste and our food landscape in Canada. By understanding where and how food is wasted, as well as where it is used across the supply chain, we

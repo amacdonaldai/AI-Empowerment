@@ -48,6 +48,8 @@ Financial Expenses Assistant
 HR Policy Assistant
 - [HR Policy Assistant](https://chat.openai.com/g/g-oIN5amCmL-hr-virtual-assistant)
 
+Financial Analyst
+- [ETSY SEC Filing](https://chat.openai.com/g/g-oIN5amCmL-hr-virtual-assistant)
 <br>
 <br>
 

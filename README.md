@@ -56,8 +56,6 @@ Financial Analyst
   for the company. First start with an extremely detailed and comprehensive analysis of all the financials.
   Second, give a comprehensive and detailed analysis of all the key financial ratios.
   Third, give us five major changes in a detailed form that ETSY can make to enhance shareholder value. 
-<br>
-<br>
 
 Ideation & Brainstorming
 - Prompt: You are my ideation and brainstorming assistant tasked with generating innovative ideas to support Second Harvest,

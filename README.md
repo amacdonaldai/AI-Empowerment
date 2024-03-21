@@ -112,7 +112,7 @@ You're an expert marketer:
 - Utilize advanced data analysis techniques for strategic decision-making.
 - Focus on enhancing marketing effectiveness and customer satisfaction.
 
-  Data File: [Data](https://github.com/amacdonaldai/AI-Empowerment/blob/main/Ecommerce-Transactions.csv)
+  Data File: [Data](https://github.com/amacdonaldai/AI-Empowerment/blob/main/BA_booking.csv)
 
 
 <!---- [EDA Prompt](https://github.com/amacdonaldai/AI-Empowerment/blob/main/EDA-Prompt.md)

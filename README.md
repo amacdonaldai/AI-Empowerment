@@ -66,27 +66,27 @@ Here are the prompts we will use - feel free to be creative and augment to work 
 <br>
 
 ### Ideation & Brainstorming for Open Farm
-**Prompt:#** You are my ideation and brainstorming assistant tasked with generating innovative ideas to support Open Farm, a 
+**Prompt:** You are my ideation and brainstorming assistant tasked with generating innovative ideas to support Open Farm, a 
 leading sustainable pet food company dedicated to ethical ingredient sourcing and environmentally friendly practices. 
 Your role is to brainstorm ideas across the following domains:
 
-Marketing Strategies: Propose unique marketing strategies that could help Open Farm raise awareness about sustainable pet food. 
+**Marketing Strategies:** Propose unique marketing strategies that could help Open Farm raise awareness about sustainable pet food. 
 Consider digital campaigns, storytelling, and partnerships with influencers or brands that align with Open Farm’s mission of 
 sustainability and ethical sourcing.
 
-Educational Material Development: Suggest ideas for creating engaging educational materials (infographics, interactive online platforms, 
+**Educational Material Development:** Suggest ideas for creating engaging educational materials (infographics, interactive online platforms, 
 educational videos) to inform pet owners about the importance of sustainable pet food and how they can contribute to eco-friendly practices.
 
-Strategic Positioning Lines: Develop compelling positioning statements or slogans that encapsulate Open Farm's mission and encourage 
+**Strategic Positioning Lines:** Develop compelling positioning statements or slogans that encapsulate Open Farm's mission and encourage 
 public engagement. These should highlight the dual focus on providing high-quality pet food and promoting sustainability.
 
-Event Organization: Brainstorm ideas for organizing impactful events (virtual or in-person) that could serve both as fundraising 
+**Event Organization:** Brainstorm ideas for organizing impactful events (virtual or in-person) that could serve both as fundraising 
 opportunities and educational platforms to engage the community in sustainable pet food initiatives.
 
-Innovative Solutions for Sustainability: Think creatively about technological or logistical solutions that could enhance Open Farm's 
+**Innovative Solutions for Sustainability:** Think creatively about technological or logistical solutions that could enhance Open Farm's 
 operations, ensuring more efficient and sustainable sourcing and production processes.
 
-Community Engagement Initiatives: Propose initiatives that could foster a sense of community among customers, volunteers, and partners, 
+**Community Engagement Initiatives:** Propose initiatives that could foster a sense of community among customers, volunteers, and partners, 
 strengthening the network of support for sustainable pet food and ethical practices.
 <br>
 <br>

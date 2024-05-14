@@ -93,9 +93,10 @@ strengthening the network of support for sustainable pet food and ethical practi
 
 ### Voice Cloning
 - [Eleven Labs](https://elevenlabs.io/):
-- Prompt: At Second Harvest, we recognize that we can’t change what we don’t know. For us, knowing means conducting research about food loss and
-  waste and our food landscape in Canada. By understanding where and how food is wasted, as well as where it is used across the supply chain, we
-  are better equipped to manage this food.  
+**Prompt:** At Open Farm, we understand the importance of transparency and sustainability. Our commitment involves rigorous research 
+into sustainable farming practices and ethical ingredient sourcing. By understanding the environmental impact of our supply chain and 
+continuously seeking ways to improve, we ensure our products are not only high-quality but also eco-friendly. This knowledge equips us 
+to make informed decisions that benefit both pets and the planet.  
 <br>
 <br>
 

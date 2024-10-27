@@ -98,10 +98,12 @@ strengthening the network of support for sustainable pet food and ethical practi
 
 ### Voice Cloning
 - [Eleven Labs](https://elevenlabs.io/):
-**Prompt:** At Open Farm, we understand the importance of transparency and sustainability. Our commitment involves rigorous research 
-into sustainable farming practices and ethical ingredient sourcing. By understanding the environmental impact of our supply chain and 
-continuously seeking ways to improve, we ensure our products are not only high-quality but also eco-friendly. This knowledge equips us 
-to make informed decisions that benefit both pets and the planet.  
+**Prompt:** At WealthInsurance.com specializes in estate planning and tax-efficient life insurance solutions for business owners, entrepreneurs,
+  professionals, and affluent families. They offer services such as tax-exempt life insurance, corporate-owned life insurance, philanthropy planning,
+  and estate preservation strategies. Their goal is to help clients reduce tax liabilities, protect assets, and leave a lasting legacy. With 33 years
+  of experience, they work closely with accountants and financial advisors to provide tailored solutions, focusing on maximizing wealth for future generations.
+
+For more details, visit WealthInsurance.com.
 <br>
 <br>
 

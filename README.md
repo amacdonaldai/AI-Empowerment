@@ -65,8 +65,8 @@ Here are the prompts we will use - feel free to be creative and augment to work 
   Third, give us five major changes in a detailed form that ETSY can make to enhance shareholder value. 
 <br>
 <br>
-<---!
-### Ideation & Brainstorming for Open Farm
+
+<---!### Ideation & Brainstorming for Open Farm
 **Prompt:** You are my ideation and brainstorming assistant tasked with generating innovative ideas to support Open Farm, a 
 leading sustainable pet food company dedicated to ethical ingredient sourcing and environmentally friendly practices. 
 Your role is to brainstorm ideas across the following domains:

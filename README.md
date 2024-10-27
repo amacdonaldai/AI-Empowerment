@@ -14,11 +14,11 @@ It's important to approach these scenarios with an understanding that they may n
 <br>
 <br>
 
-🚨🚨🚨 **STOP** 🚨🚨🚨 
+<!---🚨🚨🚨 **STOP** 🚨🚨🚨 
 
 Have you tried to subscribe to ChatGPT Plus and got waitlisted?
 
-<!---Try this link for ChatGPT Plus >>> chat.openai.com/invite/accepted--->
+Try this link for ChatGPT Plus >>> chat.openai.com/invite/accepted--->
 <br>
 <br>
 

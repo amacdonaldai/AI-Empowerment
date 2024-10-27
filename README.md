@@ -18,12 +18,12 @@ It's important to approach these scenarios with an understanding that they may n
 
 Have you tried to subscribe to ChatGPT Plus and got waitlisted?
 
-Try this link for ChatGPT Plus >>> chat.openai.com/invite/accepted
+<!---Try this link for ChatGPT Plus >>> chat.openai.com/invite/accepted--->
 <br>
 <br>
 <br>
 <br>
-# 🦾 Morning Session
+# 🦾 Chapter 1
 
 ##    💼 Session 1: Warm-up with ChatGPT (60 minutes)
 Let's warm up in 7 Prompts.

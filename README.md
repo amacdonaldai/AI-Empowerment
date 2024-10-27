@@ -5,7 +5,8 @@ links to CustomGPTs that will be used throughout the afternoon. We have a fantas
 with 80% of your time spent experimenting (FAFO) and exploring the various tools and methods. 
 Theory is kept to a minimum. No technical (Einstein) knowledge is required. 
 This is not a typing class, I'm here to help, so lean in and engage.
-
+<br>
+<br>
 🚨🚨🚨 **ALERT** 🚨🚨🚨
 
 It's important to approach these scenarios with an understanding that they may not always produce completely accurate outcomes. 

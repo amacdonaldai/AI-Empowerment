@@ -1,4 +1,4 @@
-# AI-Empowerment & Immersion
+# AI-Empowerment & Immersion for WEALTHInsucance
 Welcome to the AI Empowerment for Teams workshop repo, here you will find prompts, configs and liinks to CustomGPTs that will be used throughout the day. 
 
 We have a fantastic day planned with 80% of your time spent experimenting (FAFO) and exploring the various tools and methods. Theory is kept to a minimum. No technical (Einstein) knowledge is required. This is not a typing class, I'm here to help, so lean in and engage.

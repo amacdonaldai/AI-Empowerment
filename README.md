@@ -64,7 +64,7 @@ Here are the prompts we will use - feel free to be creative and augment to work 
   Third, give us five major changes in a detailed form that ETSY can make to enhance shareholder value. 
 <br>
 <br>
-
+<---!
 ### Ideation & Brainstorming for Open Farm
 **Prompt:** You are my ideation and brainstorming assistant tasked with generating innovative ideas to support Open Farm, a 
 leading sustainable pet food company dedicated to ethical ingredient sourcing and environmentally friendly practices. 
@@ -90,6 +90,7 @@ operations, ensuring more efficient and sustainable sourcing and production proc
 strengthening the network of support for sustainable pet food and ethical practices.
 <br>
 <br>
+--->
 
 ### Voice Cloning
 - [Eleven Labs](https://elevenlabs.io/):
@@ -101,7 +102,7 @@ to make informed decisions that benefit both pets and the planet.  
 <br>
 
 
-# 🦾 Afternoon Session
+# 🦾 Chapter 2
 
 ## 📊 Session 2:  Data Analytics - British Airways (40 minutes)
 You're an expert marketer:

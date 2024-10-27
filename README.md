@@ -21,8 +21,9 @@ Have you tried to subscribe to ChatGPT Plus and got waitlisted?
 <!---Try this link for ChatGPT Plus >>> chat.openai.com/invite/accepted--->
 <br>
 <br>
-<br>
-<br>
+
+
+
 # 🦾 Chapter 1
 
 ##    💼 Session 1: Warm-up with ChatGPT (60 minutes)

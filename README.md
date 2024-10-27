@@ -90,8 +90,7 @@ operations, ensuring more efficient and sustainable sourcing and production proc
 **Community Engagement Initiatives:** Propose initiatives that could foster a sense of community among customers, volunteers, and partners, 
 strengthening the network of support for sustainable pet food and ethical practices.
 <br>
-<br>
---->
+<br>--->
 
 ### Voice Cloning
 - [Eleven Labs](https://elevenlabs.io/):

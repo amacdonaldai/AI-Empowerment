@@ -61,12 +61,12 @@ Here are the prompts we will use - feel free to be creative and augment to work 
 
 ### Financial Analyst
 - [ETSY SEC Filing](https://github.com/amacdonaldai/AI-Empowerment/blob/main/ETSY.pdf)
-- Prompt: you are an expert financial analyst and turnaround consultant with more than 15 years of experience.
+<!---- Prompt: you are an expert financial analyst and turnaround consultant with more than 15 years of experience.
   Think like a harvard MBA. Thinklike a Goldman Sachs expert. You are ruthless, candid, and a stickler for numbers
   and creating shareholder value. Please help us turnaround ETSY.  We are providing you with the latest SEC financials
   for the company. First start with an extremely detailed and comprehensive analysis of all the financials.
   Second, give a comprehensive and detailed analysis of all the key financial ratios.
-  Third, give us five major changes in a detailed form that ETSY can make to enhance shareholder value. 
+  Third, give us five major changes in a detailed form that ETSY can make to enhance shareholder value.--->
 <br>
 <br>
 

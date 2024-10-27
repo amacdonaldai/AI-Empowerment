@@ -17,7 +17,6 @@ It's important to approach these scenarios with an understanding that they may n
 - Some of you may get "rate-limited" - strong prompts matter, think before you hit enter.
 - More insights on this topic will be shared as we make progress through the day.
 <br>
-<br>
 
 <!---🚨🚨🚨 **STOP** 🚨🚨🚨 
 

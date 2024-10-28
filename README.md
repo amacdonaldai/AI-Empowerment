@@ -43,9 +43,8 @@ Here are the prompts we will use - feel free to be creative and augment to work 
   
 <br>
 
-# 🦾 Chapter 2
-  
-## :fire: Rapid FAFO - Various Experiments (30 minutes)
+## 🚀 Chapter 2  
+### 🔥 Rapid FAFO - Various Experiments (30 minutes)
 ### Multi-modal experiment
 - [Diagram Genius](https://chat.openai.com/g/g-5QhhdsfDj-diagrams-show-me)
 <br>
@@ -108,9 +107,9 @@ strengthening the network of support for sustainable pet food and ethical practi
 <br>
 <br>
 
-# 🦾 Chapter 3
+## 📊 Chapter 3  
+### 📉 Data Analytics - British Airways (30 minutes)
 
-## 📊 Data Analytics - British Airways (30 minutes)
 You're an expert marketer:
 - Specialize in the aviation industry for British Airways.
   Expert in data analysis and marketing strategies.
@@ -124,9 +123,9 @@ You're an expert marketer:
 <br>
 <br>
 
-# 🦾 Chapter 4
+## ✍️ Chapter 4  
+### 📚 Working with Content (30 minutes)
 
-## 📊 Working with Content (30 minutes)
 You're an expert marketer:
 - Specialize in the aviation industry for British Airways.
 - Expert in data analysis and marketing strategies.
@@ -138,9 +137,9 @@ You're an expert marketer:
 <br>
 <br>
 
-# 🦾 Chapter 5
+## 🎨 Chapter 5  
+### 🖼️ Finally...Let's explore Generative Art (15 minutes)
 
-## 📊 Finally...Let's explore Generative Art (15 minutes)
 Over the next hour or so we will get ChatGPT to work harder for us: 
 <!---- Break out into groups of 10
 - Roughly 5 groups

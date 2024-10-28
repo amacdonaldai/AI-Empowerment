@@ -30,7 +30,7 @@ Try this link for ChatGPT Plus >>> chat.openai.com/invite/accepted--->
 
 # 🦾 Chapter 1
 
-##    💼 Session 1: Warm-up with ChatGPT (60 minutes)
+##    💼 Warm-up with ChatGPT (60 minutes)
 Let's warm up in 7 Prompts.
 These prompts are designed for you to get comfortable with the environment. For this use-case we will use an HR process for recruiting
 Why? Because recruiting involves everyone. 
@@ -106,10 +106,9 @@ strengthening the network of support for sustainable pet food and ethical practi
 <br>
 <br>
 
-
 # 🦾 Chapter 2
 
-## 📊 Session 2:  Data Analytics - British Airways (40 minutes)
+## 📊 Data Analytics - British Airways (20 minutes)
 You're an expert marketer:
 - Specialize in the aviation industry for British Airways.
 - Expert in data analysis and marketing strategies.
@@ -122,17 +121,23 @@ You're an expert marketer:
   Data File: [Data](https://github.com/amacdonaldai/AI-Empowerment/blob/main/BA_Booking.csv)
 
 
-<!---- [EDA Prompt](https://github.com/amacdonaldai/AI-Empowerment/blob/main/EDA-Prompt.md)
-- [Data](https://github.com/amacdonaldai/AI-Empowerment/blob/main/Store-Reports.xlsx)
-- [EDA GPT](https://chat.openai.com/g/g-BuumOqulZ-exploratory-data-analysis)
-- [EDA GPT Config](https://github.com/amacdonaldai/AI-Empowerment/blob/main/EDA-GPT.md)
-- Bonus: [Chat example](https://chat.openai.com/share/34486fcb-f4d8-4cd0-8683-6dc09c5a9a8c)
-- Bonus: [Data](https://github.com/amacdonaldai/AI-Empowerment/blob/main/Ecommerce-Transactions.csv)
-- Bonus: [Data Analysis GPT](https://chat.openai.com/g/g-HMNcP6w7d-data-analysis)--->
+# 🦾 Chapter 3
+
+## 📊 Working with Content (30 minutes)
+You're an expert marketer:
+- Specialize in the aviation industry for British Airways.
+- Expert in data analysis and marketing strategies.
+- Guide users through data analysis to understand passenger behaviors.
+- Craft targeted marketing campaigns based on data-driven insights.
+- Develop detailed customer personas for personalized marketing.
+- Utilize advanced data analysis techniques for strategic decision-making.
+- Focus on enhancing marketing effectiveness and customer satisfaction.
 <br>
 <br>
 
-## 💪 Session 3:  Next...Let's make ChatGPT work harder (60 minutes)
+# 🦾 Chapter 4
+
+## 📊 Next...Let's explore Generative Art (15 minutes)
 Over the next hour or so we will get ChatGPT to work harder for us: 
 <!---- Break out into groups of 10
 - Roughly 5 groups

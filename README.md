@@ -140,9 +140,9 @@ You're an expert marketer:
 <br>
 <br>
 
-# 🦾 Chapter 4
+# 🦾 Chapter 5
 
-## 📊 Next...Let's explore Generative Art (15 minutes)
+## 📊 Finally...Let's explore Generative Art (15 minutes)
 Over the next hour or so we will get ChatGPT to work harder for us: 
 <!---- Break out into groups of 10
 - Roughly 5 groups

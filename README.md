@@ -140,13 +140,13 @@ You're an expert marketer:
 ## 🎨 Chapter 5  
 ### 🖼️ Finally...Let's explore Generative Art (15 minutes)
 
-<!---- Over the next hour or so we will get ChatGPT to work harder for us: 
+<!----Over the next hour or so we will get ChatGPT to work harder for us: 
 Break out into groups of 10
 - Roughly 5 groups
 - Each group will come up with a specific and unique use-case for AI to help solve
 - We will build 2 CustomGPT assistants today
 <br>
-<br>--->
+<br>
 
 ## We will follow a simple process:
 - Understand the problem
@@ -154,7 +154,7 @@ Break out into groups of 10
 - Review the data (if available)
 - Name the assistant
 - Instruct the system
-- Test, fine-tune, test, fine-tune
+- Test, fine-tune, test, fine-tune--->
 
 ## 🛠️ Chapter 6  
 ### 🛠️ Useful Tools: Custom Assistant (10 minutes)

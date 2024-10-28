@@ -140,8 +140,8 @@ You're an expert marketer:
 ## 🎨 Chapter 5  
 ### 🖼️ Finally...Let's explore Generative Art (15 minutes)
 
-Over the next hour or so we will get ChatGPT to work harder for us: 
-<!---- Break out into groups of 10
+<!---- Over the next hour or so we will get ChatGPT to work harder for us: 
+Break out into groups of 10
 - Roughly 5 groups
 - Each group will come up with a specific and unique use-case for AI to help solve
 - We will build 2 CustomGPT assistants today

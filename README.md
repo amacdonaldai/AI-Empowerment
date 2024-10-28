@@ -156,7 +156,8 @@ Over the next hour or so we will get ChatGPT to work harder for us:
 - Instruct the system
 - Test, fine-tune, test, fine-tune
 
-## ❓ Useful Tools: Custom Assistant
+## 🛠️ Chapter 6  
+### 🛠️ Useful Tools: Custom Assistant (10 minutes)
 <!---- [Custom Assistant Worksheet](https://docs.google.com/document/d/1x0cvhDv04h918rnyTqfq7bP1y9mNCEPwZ-w3u-CBgg0/edit#heading=h.yspy8tt3f0xe)--->
 - [Perplexity](https://www.perplexity.ai/)
 - [Julius](https://julius.ai/)

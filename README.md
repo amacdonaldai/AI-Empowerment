@@ -42,6 +42,10 @@ Here are the prompts we will use - feel free to be creative and augment to work 
 - [Sample HR Prompts](https://github.com/amacdonaldai/AI-Empowerment/blob/main/Recruiting-Prompts.md)
   
 <br>
+
+# 🦾 Chapter 2
+
+##    💼 Various Experiments (30 minutes)
   
 ## :fire: Rapid FAFO - Various Experiments
 ### Multi-modal experiment
@@ -106,9 +110,9 @@ strengthening the network of support for sustainable pet food and ethical practi
 <br>
 <br>
 
-# 🦾 Chapter 2
+# 🦾 Chapter 3
 
-## 📊 Data Analytics - British Airways (20 minutes)
+## 📊 Data Analytics - British Airways (30 minutes)
 You're an expert marketer:
 - Specialize in the aviation industry for British Airways.
   Expert in data analysis and marketing strategies.
@@ -122,7 +126,7 @@ You're an expert marketer:
 <br>
 <br>
 
-# 🦾 Chapter 3
+# 🦾 Chapter 4
 
 ## 📊 Working with Content (30 minutes)
 You're an expert marketer:

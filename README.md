@@ -44,10 +44,8 @@ Here are the prompts we will use - feel free to be creative and augment to work 
 <br>
 
 # 🦾 Chapter 2
-
-##    💼 Various Experiments (30 minutes)
   
-## :fire: Rapid FAFO - Various Experiments
+## :fire: Rapid FAFO - Various Experiments (30 minutes)
 ### Multi-modal experiment
 - [Diagram Genius](https://chat.openai.com/g/g-5QhhdsfDj-diagrams-show-me)
 <br>

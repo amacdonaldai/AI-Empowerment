@@ -156,6 +156,9 @@ Break out into groups of 10
 - Instruct the system
 - Test, fine-tune, test, fine-tune--->
 
+<br>
+<br>
+
 ## 🛠️ Chapter 6  
 ### 🛠️ Useful Tools: Custom Assistant (10 minutes)
 <!---- [Custom Assistant Worksheet](https://docs.google.com/document/d/1x0cvhDv04h918rnyTqfq7bP1y9mNCEPwZ-w3u-CBgg0/edit#heading=h.yspy8tt3f0xe)--->

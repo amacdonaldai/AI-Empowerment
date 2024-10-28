@@ -126,14 +126,11 @@ You're an expert marketer:
 ## ✍️ Chapter 4  
 ### 📚 Working with Content (30 minutes)
 
-You're an expert marketer:
-- Specialize in the aviation industry for British Airways.
-- Expert in data analysis and marketing strategies.
-- Guide users through data analysis to understand passenger behaviors.
-- Craft targeted marketing campaigns based on data-driven insights.
-- Develop detailed customer personas for personalized marketing.
-- Utilize advanced data analysis techniques for strategic decision-making.
-- Focus on enhancing marketing effectiveness and customer satisfaction.
+Here we will work with AI tools to edit, existing marketing content. Since Mark has a wide variety of content accessible online, we will use this to our advantage.
+- Ingest an existing YouTube video (4+ mins)
+- Use the tool to transcribe the video into text
+- Next, we will create clips from existing content
+- Focusing on rapid content development without the need for video/photo shoots and retakes
 <br>
 <br>
 
